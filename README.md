@@ -2,6 +2,5 @@
 
 Salut à vous ! 
 
-j'apprend la programation par le language python et js pour pouvoir a§ssocier les deux!
-
+J'apprend la programmation par l langage Python et le JS pour associer les deux pour un projet
 
